@@ -1,0 +1,1430 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.17f1 (a4537701e4ab) revision 10769271'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 19044.1645; Version 2009; 64bit' Language: 'en' Physical Memory: 16204 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.17f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+F:/School files/SIM 150/Game 3- Terrible Tweeters/The-Most-Dangerous-Game/Most Dangerous Game
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+58302
+Successfully changed project path to: F:/School files/SIM 150/Game 3- Terrible Tweeters/The-Most-Dangerous-Game/Most Dangerous Game
+F:/School files/SIM 150/Game 3- Terrible Tweeters/The-Most-Dangerous-Game/Most Dangerous Game
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 53.21 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.17f1 (a4537701e4ab)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.17f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path F:/School files/SIM 150/Game 3- Terrible Tweeters/The-Most-Dangerous-Game/Most Dangerous Game/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 2070 (ID=0x1f14)
+    Vendor:   
+    VRAM:     8031 MB
+    Driver:   30.0.14.9729
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.17f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.17f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.17f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56312
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.17f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.17f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002863 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 56.57 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.214 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2214ms)
+		BeginReloadAssembly (48ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (398ms)
+			LoadAssemblies (45ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (136ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (30ms)
+			SetupLoadedEditorAssemblies (164ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (5ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (57ms)
+				BeforeProcessingInitializeOnLoad (14ms)
+				ProcessInitializeOnLoadAttributes (65ms)
+				ProcessInitializeOnLoadMethodAttributes (23ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.002980 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 44.11 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.129 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1130ms)
+		BeginReloadAssembly (130ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (4ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (17ms)
+		EndReloadAssembly (939ms)
+			LoadAssemblies (84ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (260ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (51ms)
+			SetupLoadedEditorAssemblies (428ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (4ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (44ms)
+				BeforeProcessingInitializeOnLoad (73ms)
+				ProcessInitializeOnLoadAttributes (285ms)
+				ProcessInitializeOnLoadMethodAttributes (13ms)
+				AfterProcessingInitializeOnLoad (9ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (7ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
+Refreshing native plugins compatible for Editor in 0.47 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2248 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 99.6 MB.
+System memory in use after: 99.7 MB.
+
+Unloading 29 unused Assets to reduce memory usage. Loaded Objects now: 2693.
+Total: 3.059200 ms (FindLiveObjects: 0.189400 ms CreateObjectMapping: 0.093200 ms MarkObjects: 2.714800 ms  DeleteObjects: 0.061100 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/Art/lpc-baobab/lpc-baobab/full/a_za.png
+  artifactKey: Guid(7ee14e9dad3174d469920f050c7659f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/lpc-baobab/lpc-baobab/full/a_za.png using Guid(7ee14e9dad3174d469920f050c7659f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f169685ca3485e0f4355c2458e5664f') in 0.217014 seconds 
+  Import took 0.220180 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000267 seconds.
+  path: Assets/Art/UI/Jungle-GUI-PNG/PNG/rating/btn.png
+  artifactKey: Guid(355f9120ffc35454e8cc77a6ef806cdf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/UI/Jungle-GUI-PNG/PNG/rating/btn.png using Guid(355f9120ffc35454e8cc77a6ef806cdf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c65da806b13413adf9606a02f67ff05') in 0.031868 seconds 
+  Import took 0.034871 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000317 seconds.
+  path: Assets/Art/UI/Jungle-GUI-PNG/PNG/load_bar/bg.png
+  artifactKey: Guid(a96317fa50a99b94dbcff436c9810b9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/UI/Jungle-GUI-PNG/PNG/load_bar/bg.png using Guid(a96317fa50a99b94dbcff436c9810b9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c5f82ee62f4521e941dafb373b4d5838') in 0.036070 seconds 
+  Import took 0.039272 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000496 seconds.
+  path: Assets/Art/UI/Jungle-GUI-PNG/PNG/btn/about.png
+  artifactKey: Guid(ae60ddf3f2d32e94fa32c936bcfd5847) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/UI/Jungle-GUI-PNG/PNG/btn/about.png using Guid(ae60ddf3f2d32e94fa32c936bcfd5847) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5731234b34a1e65df6848375a782a49e') in 0.047225 seconds 
+  Import took 0.050987 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000435 seconds.
+  path: Assets/Art/UI/Jungle-GUI-PNG/PNG/bubble/btn_1.png
+  artifactKey: Guid(5e9c49a355b66d8409e009590aa86464) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/UI/Jungle-GUI-PNG/PNG/bubble/btn_1.png using Guid(5e9c49a355b66d8409e009590aa86464) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '68f827a4f198e5319e2a322cf3fc06f4') in 0.091703 seconds 
+  Import took 0.094831 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000323 seconds.
+  path: Assets/Brutal 2D Adventure Mega Pack/Brutal 2D Adventure Jungle Pack/day/backgrounds/cloud-04.png
+  artifactKey: Guid(90aa4c83c58885a4db2eab3131db5fb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Brutal 2D Adventure Mega Pack/Brutal 2D Adventure Jungle Pack/day/backgrounds/cloud-04.png using Guid(90aa4c83c58885a4db2eab3131db5fb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c671eca3fccc98093470c34dd8cccb4b') in 0.266945 seconds 
+  Import took 0.269765 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000333 seconds.
+  path: Assets/Art/lpc-baobab/lpc-baobab/trunk/a_rubrostipa.png
+  artifactKey: Guid(cbdd3ab752ed4624390e4faad9890561) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/lpc-baobab/lpc-baobab/trunk/a_rubrostipa.png using Guid(cbdd3ab752ed4624390e4faad9890561) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '13e7932f34d96ae81dbdb2ca3f6c6081') in 0.032162 seconds 
+  Import took 0.035175 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000361 seconds.
+  path: Assets/Art/UI/Jungle-GUI-PNG/PNG/menu/about.png
+  artifactKey: Guid(5912417a5d168d34c848900762b930b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/UI/Jungle-GUI-PNG/PNG/menu/about.png using Guid(5912417a5d168d34c848900762b930b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da5c5393022e7a924c3d177c747dbae8') in 0.023658 seconds 
+  Import took 0.027079 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000373 seconds.
+  path: Assets/Art/UI/Jungle-GUI-PNG/PNG/upgrade/b.png
+  artifactKey: Guid(7673afaeb06e2b14499a50e44dfe9955) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/UI/Jungle-GUI-PNG/PNG/upgrade/b.png using Guid(7673afaeb06e2b14499a50e44dfe9955) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2cc33aedad99a1d5bf3cbe4449182efe') in 0.026907 seconds 
+  Import took 0.030270 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000365 seconds.
+  path: Assets/Art/UI/Jungle-GUI-PNG/PNG/shop/close_2.png
+  artifactKey: Guid(642d041fe2f0fe24ebb6d65059231c39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/UI/Jungle-GUI-PNG/PNG/shop/close_2.png using Guid(642d041fe2f0fe24ebb6d65059231c39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd1d0e4d323640a204b8b6ce1e66d70bc') in 0.033562 seconds 
+  Import took 0.036600 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000352 seconds.
+  path: Assets/Art/Props/Crate 2.png
+  artifactKey: Guid(f887dcd05d9be1940b0557e1c0347d6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Props/Crate 2.png using Guid(f887dcd05d9be1940b0557e1c0347d6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9deba725749288a753c0fd0f187b0cf4') in 0.035307 seconds 
+  Import took 0.038186 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000359 seconds.
+  path: Assets/Art/Environment/opp1_jungle_tiles/opp1_jungle_tiles/db32.png
+  artifactKey: Guid(624c7ff49ea86bb4eb0fa6df01f43058) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Environment/opp1_jungle_tiles/opp1_jungle_tiles/db32.png using Guid(624c7ff49ea86bb4eb0fa6df01f43058) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '012cb58b3f48c3195787586ff87b0421') in 0.043996 seconds 
+  Import took 0.046928 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000334 seconds.
+  path: Assets/Brutal 2D Adventure Mega Pack/Brutal 2D Adventure Jungle Pack/day/backgrounds/cloud-02.png
+  artifactKey: Guid(33285c4c7c5866b4e84e0438b948dbc4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Brutal 2D Adventure Mega Pack/Brutal 2D Adventure Jungle Pack/day/backgrounds/cloud-02.png using Guid(33285c4c7c5866b4e84e0438b948dbc4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd9b8286b39baba895c81976c58e3ba46') in 0.072545 seconds 
+  Import took 0.095983 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000312 seconds.
+  path: Assets/Art/lpc-baobab/lpc-baobab/full/a_suarazensis.png
+  artifactKey: Guid(72180e083495e7f41be2f04245ef8096) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/lpc-baobab/lpc-baobab/full/a_suarazensis.png using Guid(72180e083495e7f41be2f04245ef8096) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f52e9e35a97ba16bfb72c3ba69568d0f') in 0.058078 seconds 
+  Import took 0.061342 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000367 seconds.
+  path: Assets/Art/lpc-baobab/lpc-baobab/baobab-shadow-leaves.png
+  artifactKey: Guid(9393256e97a85c046aa1f60c82eb73a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/lpc-baobab/lpc-baobab/baobab-shadow-leaves.png using Guid(9393256e97a85c046aa1f60c82eb73a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c828f9afff96bcda3d7f588dfb47a73e') in 0.098463 seconds 
+  Import took 0.102024 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000358 seconds.
+  path: Assets/Art/UI/Jungle-GUI-PNG/PNG/level_select/dot_a.png
+  artifactKey: Guid(d6766484cf7fdf644883c334a1865280) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/UI/Jungle-GUI-PNG/PNG/level_select/dot_a.png using Guid(d6766484cf7fdf644883c334a1865280) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '31fa5fc2d830b2082ed63b32132333a2') in 0.032834 seconds 
+  Import took 0.035831 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000351 seconds.
+  path: Assets/Art/lpc-baobab/lpc-baobab/trunk/a_za.png
+  artifactKey: Guid(4b2d1d47d9dbd164099bea89a6e6eef5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/lpc-baobab/lpc-baobab/trunk/a_za.png using Guid(4b2d1d47d9dbd164099bea89a6e6eef5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '79a07dc32be8a2a832c8812bb6ad0331') in 0.036501 seconds 
+  Import took 0.039361 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000331 seconds.
+  path: Assets/Art/UI/Jungle-GUI-PNG/PNG/upgrade/btn.png
+  artifactKey: Guid(7137057fb7e68dc4daab36514a15c97e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/UI/Jungle-GUI-PNG/PNG/upgrade/btn.png using Guid(7137057fb7e68dc4daab36514a15c97e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '78cd5e47a142f9e985251b5ce47fb517') in 0.060679 seconds 
+  Import took 0.064244 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000367 seconds.
+  path: Assets/Art/lpc-baobab/lpc-baobab/canopy/a_rubrostipa.png
+  artifactKey: Guid(a5d44c3711273ce479bea9c319e24b20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/lpc-baobab/lpc-baobab/canopy/a_rubrostipa.png using Guid(a5d44c3711273ce479bea9c319e24b20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '10919e0ed99a11ccf01913a3c1d92539') in 0.039331 seconds 
+  Import took 0.042734 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000341 seconds.
+  path: Assets/Art/lpc-baobab/lpc-baobab/shadow-noleaves/a_suarazensis.png
+  artifactKey: Guid(75fa979bbc501af478722cb32ab81e24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/lpc-baobab/lpc-baobab/shadow-noleaves/a_suarazensis.png using Guid(75fa979bbc501af478722cb32ab81e24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '031f1db8c0de4d3628ea9b993e518a9e') in 0.045017 seconds 
+  Import took 0.047988 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000299 seconds.
+  path: Assets/Art/UI/Jungle-GUI-PNG/PNG/menu/bg.png
+  artifactKey: Guid(7b328c1ec9b732e42bdc9c6e6a5e8b3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/UI/Jungle-GUI-PNG/PNG/menu/bg.png using Guid(7b328c1ec9b732e42bdc9c6e6a5e8b3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a4ef363b7f04d60ef35ed7b6e9753a12') in 0.068726 seconds 
+  Import took 0.071714 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000346 seconds.
+  path: Assets/Art/lpc-baobab/lpc-baobab/noleaves/adansonia_spp.png
+  artifactKey: Guid(fe5fa5cfae25c8b4aab703b52ad9b67c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/lpc-baobab/lpc-baobab/noleaves/adansonia_spp.png using Guid(fe5fa5cfae25c8b4aab703b52ad9b67c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '99ae13a6037bdf4064129f84c5d14cb9') in 0.098851 seconds 
+  Import took 0.107391 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001534 seconds.
+  path: Assets/Art/UI/Jungle-GUI-PNG/PNG/btn/close_2.png
+  artifactKey: Guid(3fd1d07ab9bd8894d94591ceabb8160b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/UI/Jungle-GUI-PNG/PNG/btn/close_2.png using Guid(3fd1d07ab9bd8894d94591ceabb8160b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39854c9dbc62b2573f91ce9daaef2ad9') in 0.049077 seconds 
+  Import took 0.062770 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001016 seconds.
+  path: Assets/Art/Environment/opp1_jungle_tiles/opp1_jungle_tiles/environment/background/bg objects/bg_cloud7.png
+  artifactKey: Guid(d0d798664e5f1d04a87b0e6fd8b6f399) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Environment/opp1_jungle_tiles/opp1_jungle_tiles/environment/background/bg objects/bg_cloud7.png using Guid(d0d798664e5f1d04a87b0e6fd8b6f399) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4236bb8632930d49e3f64502abbb28e9') in 0.065694 seconds 
+  Import took 0.074133 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000317 seconds.
+  path: Assets/Art/UI/Jungle-GUI-PNG/PNG/bubble/bgload.png
+  artifactKey: Guid(b5c48580069b70e4387275a667633914) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/UI/Jungle-GUI-PNG/PNG/bubble/bgload.png using Guid(b5c48580069b70e4387275a667633914) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42481a1d6afc7fd8f801523e6bc51276') in 0.022677 seconds 
+  Import took 0.026191 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000322 seconds.
+  path: Assets/Art/lpc-baobab/lpc-baobab/baobab-labeled.png
+  artifactKey: Guid(fa5fb1b742d6c57448ae61b48633251c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/lpc-baobab/lpc-baobab/baobab-labeled.png using Guid(fa5fb1b742d6c57448ae61b48633251c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '357b3007cfd53c107cc298b4c67f5050') in 0.044343 seconds 
+  Import took 0.047646 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000298 seconds.
+  path: Assets/Brutal 2D Adventure Mega Pack/Brutal 2D Adventure Jungle Pack/day/backgrounds/cloud-03.png
+  artifactKey: Guid(6539f7f00d237844e811b0e6e37e7408) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Brutal 2D Adventure Mega Pack/Brutal 2D Adventure Jungle Pack/day/backgrounds/cloud-03.png using Guid(6539f7f00d237844e811b0e6e37e7408) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '75b416d41c603bbc181e813e17d3791e') in 0.081007 seconds 
+  Import took 0.083882 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000363 seconds.
+  path: Assets/Art/UI/Jungle-GUI-PNG/PNG/match3/bgload.png
+  artifactKey: Guid(1c527ecd5f8cff6408f9600029cadcd1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/UI/Jungle-GUI-PNG/PNG/match3/bgload.png using Guid(1c527ecd5f8cff6408f9600029cadcd1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '86a7e6b2ea4935ccf2644ffa618e1cc7') in 0.124816 seconds 
+  Import took 0.127856 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000347 seconds.
+  path: Assets/Art/lpc-baobab/lpc-baobab/baobab-trunk.png
+  artifactKey: Guid(9f514f04145acd04a94c6398e220eaca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/lpc-baobab/lpc-baobab/baobab-trunk.png using Guid(9f514f04145acd04a94c6398e220eaca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c307e6f111def8293c724c8494271b3e') in 0.063025 seconds 
+  Import took 0.066295 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000346 seconds.
+  path: Assets/Art/Environment/opp1_jungle_tiles/opp1_jungle_tiles/environment/background/bg objects/bg_cloud5.png
+  artifactKey: Guid(58a5c094071795c449a7a3b41b9361b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Environment/opp1_jungle_tiles/opp1_jungle_tiles/environment/background/bg objects/bg_cloud5.png using Guid(58a5c094071795c449a7a3b41b9361b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '85e3bc305b7d506a9cfa069fc065b004') in 0.062863 seconds 
+  Import took 0.066112 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000336 seconds.
+  path: Assets/Art/lpc-baobab/lpc-baobab/baobab-noleaves.png
+  artifactKey: Guid(6ae949a65e5f7574aa6b5c7824534547) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/lpc-baobab/lpc-baobab/baobab-noleaves.png using Guid(6ae949a65e5f7574aa6b5c7824534547) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '64fe41f39a3f7319272591f649b4dac0') in 0.032998 seconds 
+  Import took 0.035826 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000354 seconds.
+  path: Assets/Art/Environment/opp1_jungle_tiles/opp1_jungle_tiles/environment/background/bg objects/bg_cloud2.png
+  artifactKey: Guid(f9a110860bb20df40a9ec05872b7741a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Environment/opp1_jungle_tiles/opp1_jungle_tiles/environment/background/bg objects/bg_cloud2.png using Guid(f9a110860bb20df40a9ec05872b7741a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '32be6628a47cb14cf01fac786b454623') in 0.041198 seconds 
+  Import took 0.044109 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000351 seconds.
+  path: Assets/Art/lpc-baobab/lpc-baobab/baobab-canopy.png
+  artifactKey: Guid(47ba849fd8f1f694a98ab10535c32f9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/lpc-baobab/lpc-baobab/baobab-canopy.png using Guid(47ba849fd8f1f694a98ab10535c32f9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '08efddc834b699bcab3ba888ebfb9e61') in 0.042984 seconds 
+  Import took 0.063418 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000338 seconds.
+  path: Assets/Art/UI/Jungle-GUI-PNG/PNG/upgrade/close_2.png
+  artifactKey: Guid(9d294877f9021ee4c9f01ed583c9e014) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/UI/Jungle-GUI-PNG/PNG/upgrade/close_2.png using Guid(9d294877f9021ee4c9f01ed583c9e014) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a188f46a3d278ba580f94a2d3863f1d3') in 0.038045 seconds 
+  Import took 0.080333 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000311 seconds.
+  path: Assets/Art/Environment/opp1_jungle_tiles/opp1_jungle_tiles/environment/background/bg_solid_colors.png
+  artifactKey: Guid(1f4b4f4941875a84e8b9d897b7517e9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Environment/opp1_jungle_tiles/opp1_jungle_tiles/environment/background/bg_solid_colors.png using Guid(1f4b4f4941875a84e8b9d897b7517e9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '15ee66bb56181153e61249026e25a7a4') in 0.079639 seconds 
+  Import took 0.083240 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000378 seconds.
+  path: Assets/Art/UI/Jungle-GUI-PNG/PNG/upgrade/bg.png
+  artifactKey: Guid(eb52d7eab9da7e449b7d42a9f82609fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/UI/Jungle-GUI-PNG/PNG/upgrade/bg.png using Guid(eb52d7eab9da7e449b7d42a9f82609fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e9c4c2cb3b85019726a44583aca26e7a') in 0.156024 seconds 
+  Import took 0.162345 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000365 seconds.
+  path: Assets/Art/UI/Jungle-GUI-PNG/PNG/you_lose/bg.png
+  artifactKey: Guid(402a61d5bc3aa3541bbcfbb9eec88950) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/UI/Jungle-GUI-PNG/PNG/you_lose/bg.png using Guid(402a61d5bc3aa3541bbcfbb9eec88950) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ddae690b1f9699193006ec965bfddfbe') in 0.048570 seconds 
+  Import took 0.052130 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000331 seconds.
+  path: Assets/Art/UI/Jungle-GUI-PNG/PNG/btn/close.png
+  artifactKey: Guid(948969772313ed947b7db70e4a91b479) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/UI/Jungle-GUI-PNG/PNG/btn/close.png using Guid(948969772313ed947b7db70e4a91b479) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a8b946ab5ea9fa6a4549ddaf8b9c0041') in 0.027160 seconds 
+  Import took 0.030268 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000337 seconds.
+  path: Assets/Art/UI/Jungle-GUI-PNG/PNG/rating/close_2.png
+  artifactKey: Guid(61e0f3b6ef8f5c34ba9e407c56aaacb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/UI/Jungle-GUI-PNG/PNG/rating/close_2.png using Guid(61e0f3b6ef8f5c34ba9e407c56aaacb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa97b9660d622984910241f2c3e02774') in 0.015106 seconds 
+  Import took 0.018212 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000340 seconds.
+  path: Assets/Brutal 2D Adventure Mega Pack/Brutal 2D Adventure Jungle Pack/day/backgrounds/cloud-05.png
+  artifactKey: Guid(e91ff8f1586ab934d9a16b2a77da2667) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Brutal 2D Adventure Mega Pack/Brutal 2D Adventure Jungle Pack/day/backgrounds/cloud-05.png using Guid(e91ff8f1586ab934d9a16b2a77da2667) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb71ad5baafb00a29f8dd5d39b8c0380') in 0.259672 seconds 
+  Import took 0.262936 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000306 seconds.
+  path: Assets/Art/lpc-baobab/lpc-baobab/shadow-leaves/a_suarazensis.png
+  artifactKey: Guid(f6b35585cbbf4ec4f861fcd2a030f2f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/lpc-baobab/lpc-baobab/shadow-leaves/a_suarazensis.png using Guid(f6b35585cbbf4ec4f861fcd2a030f2f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2bfdc125e3062643f5e07f2cee8dbe00') in 0.108420 seconds 
+  Import took 0.111170 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000364 seconds.
+  path: Assets/Art/lpc-baobab/lpc-baobab/canopy/a_suarazensis.png
+  artifactKey: Guid(584e97efaee33dd4995197d77ac2686c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/lpc-baobab/lpc-baobab/canopy/a_suarazensis.png using Guid(584e97efaee33dd4995197d77ac2686c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb4c76e0c0bc1c109f55cf63f257b809') in 0.151005 seconds 
+  Import took 0.153981 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000320 seconds.
+  path: Assets/Art/lpc-baobab/lpc-baobab/noleaves/a_rubrostipa.png
+  artifactKey: Guid(9d52292865642ed4a9f551dff2cf4407) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/lpc-baobab/lpc-baobab/noleaves/a_rubrostipa.png using Guid(9d52292865642ed4a9f551dff2cf4407) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7da19a95e6d0c811d1d1dcd46a5960f3') in 0.095903 seconds 
+  Import took 0.098965 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000336 seconds.
+  path: Assets/Art/UI/Jungle-GUI-PNG/PNG/shop/btn.png
+  artifactKey: Guid(64bdba55a0213974eb1e7b893b35a713) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/UI/Jungle-GUI-PNG/PNG/shop/btn.png using Guid(64bdba55a0213974eb1e7b893b35a713) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf02a62349ac12ded5950f051b232e66') in 0.017769 seconds 
+  Import took 0.020626 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000284 seconds.
+  path: Assets/Art/lpc-baobab/lpc-baobab/baobab-full.png
+  artifactKey: Guid(07cb06b00481849459abcdf47b798ddb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/lpc-baobab/lpc-baobab/baobab-full.png using Guid(07cb06b00481849459abcdf47b798ddb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9429bfa2e6e6b68b5674b350a5c0ffc2') in 0.032359 seconds 
+  Import took 0.035311 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000369 seconds.
+  path: Assets/Art/UI/Jungle-GUI-PNG/PNG/rating/dot.png
+  artifactKey: Guid(0352839f163c6c847a72477be88f7150) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/UI/Jungle-GUI-PNG/PNG/rating/dot.png using Guid(0352839f163c6c847a72477be88f7150) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '82b9b7c3422707c3f4207c1f4856152d') in 0.037778 seconds 
+  Import took 0.041359 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000314 seconds.
+  path: Assets/Art/lpc-baobab/lpc-baobab/baobab-shadow-noleaves.png
+  artifactKey: Guid(1bd15936a2d8dce46a8a6a2639adc10a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/lpc-baobab/lpc-baobab/baobab-shadow-noleaves.png using Guid(1bd15936a2d8dce46a8a6a2639adc10a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd96ab9ce8ab602efbc0f7ace9f269954') in 0.084735 seconds 
+  Import took 0.087591 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000324 seconds.
+  path: Assets/Art/Environment/opp1_jungle_tiles/opp1_jungle_tiles/environment/background/bg objects/bg_cloud3.png
+  artifactKey: Guid(56177453cf8927c45b5aa85a07f4e4bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Environment/opp1_jungle_tiles/opp1_jungle_tiles/environment/background/bg objects/bg_cloud3.png using Guid(56177453cf8927c45b5aa85a07f4e4bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1fec177204806a8528d6eb9a2a43451d') in 0.038413 seconds 
+  Import took 0.041239 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000282 seconds.
+  path: Assets/Art/lpc-baobab/lpc-baobab/full/a_rubrostipa.png
+  artifactKey: Guid(7388c0a15eab0c347a4059605a6c9b79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/lpc-baobab/lpc-baobab/full/a_rubrostipa.png using Guid(7388c0a15eab0c347a4059605a6c9b79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '55640049e639146ed6212e1b70dcdbd8') in 0.038973 seconds 
+  Import took 0.041812 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000312 seconds.
+  path: Assets/Art/Environment/opp1_jungle_tiles/opp1_jungle_tiles/environment/background/bg objects/bg_cloud4.png
+  artifactKey: Guid(0df55f522fdf3f8439e6ea2b39ea8d86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Environment/opp1_jungle_tiles/opp1_jungle_tiles/environment/background/bg objects/bg_cloud4.png using Guid(0df55f522fdf3f8439e6ea2b39ea8d86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b508fdd284fb1e628d2c60cd02f613cb') in 0.067992 seconds 
+  Import took 0.071050 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000317 seconds.
+  path: Assets/Art/lpc-baobab/lpc-baobab/shadow-leaves/a_rubrostipa.png
+  artifactKey: Guid(2404d2fbb39e1404fb1f5e41a99637e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/lpc-baobab/lpc-baobab/shadow-leaves/a_rubrostipa.png using Guid(2404d2fbb39e1404fb1f5e41a99637e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e8447c692a4cc3899729b6b7b094b424') in 0.052348 seconds 
+  Import took 0.055478 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000327 seconds.
+  path: Assets/Art/lpc-baobab/lpc-baobab/shadow-noleaves/a_za.png
+  artifactKey: Guid(6b0480ccee6c76a43abb853a46301caf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/lpc-baobab/lpc-baobab/shadow-noleaves/a_za.png using Guid(6b0480ccee6c76a43abb853a46301caf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b404528d6cbd236457797572bd5b4729') in 0.048261 seconds 
+  Import took 0.051270 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000310 seconds.
+  path: Assets/Art/UI/Jungle-GUI-PNG/PNG/bubble/bg.png
+  artifactKey: Guid(2d86a5eae6da7734ba758116f7aa632b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/UI/Jungle-GUI-PNG/PNG/bubble/bg.png using Guid(2d86a5eae6da7734ba758116f7aa632b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c95842355f1e033155e4373620efe8d') in 0.093197 seconds 
+  Import took 0.110437 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000376 seconds.
+  path: Assets/Art/Environment/opp1_jungle_tiles/opp1_jungle_tiles/environment/background/bg objects/bg_cloud8.png
+  artifactKey: Guid(e93b743e109b59f45b582fb31132c9b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Environment/opp1_jungle_tiles/opp1_jungle_tiles/environment/background/bg objects/bg_cloud8.png using Guid(e93b743e109b59f45b582fb31132c9b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea6757ab6ff2918a3c8e0aa8e3a9e03c') in 0.034577 seconds 
+  Import took 0.038064 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000309 seconds.
+  path: Assets/Art/lpc-baobab/lpc-baobab/noleaves/a_za.png
+  artifactKey: Guid(d3edcbb3e3bb8024bb21757df4091742) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/lpc-baobab/lpc-baobab/noleaves/a_za.png using Guid(d3edcbb3e3bb8024bb21757df4091742) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ddf18de21c7bf2b1efb1eb8cf02ab64') in 0.061625 seconds 
+  Import took 0.064876 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000363 seconds.
+  path: Assets/Art/UI/Jungle-GUI-PNG/PNG/level_select/close_2.png
+  artifactKey: Guid(a10e6e068df4b8f45ba2b27fb8d65eaa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/UI/Jungle-GUI-PNG/PNG/level_select/close_2.png using Guid(a10e6e068df4b8f45ba2b27fb8d65eaa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb72a4e1d8ec653e1ff9b72bc84095b5') in 0.016990 seconds 
+  Import took 0.019963 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000296 seconds.
+  path: Assets/Art/lpc-baobab/lpc-baobab/trunk/adansonia_spp.png
+  artifactKey: Guid(a6c60dd8782dfb441b93bb9cb8743866) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/lpc-baobab/lpc-baobab/trunk/adansonia_spp.png using Guid(a6c60dd8782dfb441b93bb9cb8743866) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5591d47bebe2a66f77fa04d87ca4a8a1') in 0.045640 seconds 
+  Import took 0.048489 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000321 seconds.
+  path: Assets/Art/UI/Jungle-GUI-PNG/PNG/settings/bg.png
+  artifactKey: Guid(c6e2e2c20c850724abe2f01662e964c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/UI/Jungle-GUI-PNG/PNG/settings/bg.png using Guid(c6e2e2c20c850724abe2f01662e964c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2d4f673397829b234bdb135b7796aaed') in 0.169788 seconds 
+  Import took 0.184681 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000314 seconds.
+  path: Assets/Art/lpc-baobab/lpc-baobab/baobab-preview.png
+  artifactKey: Guid(80e7206fb3ba35040b2e9ba8c71450d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/lpc-baobab/lpc-baobab/baobab-preview.png using Guid(80e7206fb3ba35040b2e9ba8c71450d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'af26e0e86748c50cb74404045231a817') in 0.028835 seconds 
+  Import took 0.031718 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000405 seconds.
+  path: Assets/Art/UI/Jungle-GUI-PNG/PNG/upgrade/dot.png
+  artifactKey: Guid(a614a532983b63a4da1d730dd585618c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/UI/Jungle-GUI-PNG/PNG/upgrade/dot.png using Guid(a614a532983b63a4da1d730dd585618c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bcab0ff68bd9d0c7099dd3d140cfe0bf') in 0.014268 seconds 
+  Import took 0.017109 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000311 seconds.
+  path: Assets/Art/Environment/opp1_jungle_tiles/opp1_jungle_tiles/environment/background/bg objects/bg_cloud6.png
+  artifactKey: Guid(780e6f1911dc4e54882638aebe1b877b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Environment/opp1_jungle_tiles/opp1_jungle_tiles/environment/background/bg objects/bg_cloud6.png using Guid(780e6f1911dc4e54882638aebe1b877b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df1a0a44c4920fdcf7fb62f1a4afd055') in 0.067557 seconds 
+  Import took 0.070389 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000315 seconds.
+  path: Assets/Art/UI/Jungle-GUI-PNG/PNG/settings/close_2.png
+  artifactKey: Guid(4c6380929d28acc48af5c76eff948cb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/UI/Jungle-GUI-PNG/PNG/settings/close_2.png using Guid(4c6380929d28acc48af5c76eff948cb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0688d56fb4e4e166c43791b63d62d261') in 0.016005 seconds 
+  Import took 0.026595 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000333 seconds.
+  path: Assets/Brutal 2D Adventure Mega Pack/Brutal 2D Adventure Jungle Pack/day/backgrounds/cloud-01.png
+  artifactKey: Guid(60673d8cce65e8148a1ea89f188567de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Brutal 2D Adventure Mega Pack/Brutal 2D Adventure Jungle Pack/day/backgrounds/cloud-01.png using Guid(60673d8cce65e8148a1ea89f188567de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '212b2a15c06fc3a6552403cf6d4001b5') in 0.320403 seconds 
+  Import took 0.323299 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000319 seconds.
+  path: Assets/Art/lpc-baobab/lpc-baobab/shadow-leaves/a_za.png
+  artifactKey: Guid(3de3277ded03ddb4cbf8d06f800997ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/lpc-baobab/lpc-baobab/shadow-leaves/a_za.png using Guid(3de3277ded03ddb4cbf8d06f800997ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d453b2d995b366cc268849ec5e19b2a') in 0.021680 seconds 
+  Import took 0.024519 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000358 seconds.
+  path: Assets/Art/Environment/opp1_jungle_tiles/opp1_jungle_tiles/environment/tiles/jungle/tile_jungle_bg_vines.png
+  artifactKey: Guid(c966c31e7975a6c4a8455df2d0326e4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Environment/opp1_jungle_tiles/opp1_jungle_tiles/environment/tiles/jungle/tile_jungle_bg_vines.png using Guid(c966c31e7975a6c4a8455df2d0326e4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '37af50a977c056741eafc18c46422882') in 0.146546 seconds 
+  Import took 0.149959 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000327 seconds.
+  path: Assets/Art/lpc-baobab/lpc-baobab/canopy/adansonia_spp.png
+  artifactKey: Guid(6fce93b8e7831b049a39ee31ddb91777) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/lpc-baobab/lpc-baobab/canopy/adansonia_spp.png using Guid(6fce93b8e7831b049a39ee31ddb91777) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '32729562e03fa3dc7ab053a6b1b15cff') in 0.033997 seconds 
+  Import took 0.037542 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000268 seconds.
+  path: Assets/Art/lpc-baobab/lpc-baobab/trunk/a_suarazensis.png
+  artifactKey: Guid(02b2d1aba0090914091bc9cc8711f3be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/lpc-baobab/lpc-baobab/trunk/a_suarazensis.png using Guid(02b2d1aba0090914091bc9cc8711f3be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f00c47134c0fcabe215de03cda7b991') in 0.154866 seconds 
+  Import took 0.157701 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000272 seconds.
+  path: Assets/Art/lpc-baobab/lpc-baobab/shadow-noleaves/adansonia_spp.png
+  artifactKey: Guid(2668cb7216a9feb47bc526f6f02319fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/lpc-baobab/lpc-baobab/shadow-noleaves/adansonia_spp.png using Guid(2668cb7216a9feb47bc526f6f02319fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '107ef1d2eaf1e5c9ff94bf34add70f00') in 0.097764 seconds 
+  Import took 0.101112 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000267 seconds.
+  path: Assets/Art/lpc-baobab/lpc-baobab/shadow-noleaves/a_rubrostipa.png
+  artifactKey: Guid(786b0d177af63674a9937645250e59a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/lpc-baobab/lpc-baobab/shadow-noleaves/a_rubrostipa.png using Guid(786b0d177af63674a9937645250e59a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db05f1678b8aec62e5b91c3e73b539f3') in 0.039844 seconds 
+  Import took 0.043035 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000271 seconds.
+  path: Assets/Art/UI/Jungle-GUI-PNG/PNG/level_select/bg.png
+  artifactKey: Guid(d697d092c6e514e46a0669d7e1cf3489) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/UI/Jungle-GUI-PNG/PNG/level_select/bg.png using Guid(d697d092c6e514e46a0669d7e1cf3489) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '33b26010c63d8c78ae962200cfcaae50') in 0.037835 seconds 
+  Import took 0.041199 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000322 seconds.
+  path: Assets/Art/UI/Jungle-GUI-PNG/PNG/rating/bg.png
+  artifactKey: Guid(a17f82d8b7aa6164b99abbf03f366b52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/UI/Jungle-GUI-PNG/PNG/rating/bg.png using Guid(a17f82d8b7aa6164b99abbf03f366b52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ade9a6c0d20d856adf6b76124be1cd1') in 0.129667 seconds 
+  Import took 0.133188 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000287 seconds.
+  path: Assets/Art/lpc-baobab/lpc-baobab/baobab-labeled-noleaves.png
+  artifactKey: Guid(ddfb8e0b40ac00244b16fbd2288bcefc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/lpc-baobab/lpc-baobab/baobab-labeled-noleaves.png using Guid(ddfb8e0b40ac00244b16fbd2288bcefc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f506a09287e4f02325b23f319f3155d6') in 0.035048 seconds 
+  Import took 0.037922 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000271 seconds.
+  path: Assets/Art/UI/Jungle-GUI-PNG/PNG/you_win/bg.png
+  artifactKey: Guid(af08f5ef219a47b4cb26bb270e386a79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/UI/Jungle-GUI-PNG/PNG/you_win/bg.png using Guid(af08f5ef219a47b4cb26bb270e386a79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fcde05b20d848e622e1634d3eb5e049e') in 0.071032 seconds 
+  Import took 0.074039 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000300 seconds.
+  path: Assets/Art/UI/Jungle-GUI-PNG/PNG/bubble/clock.png
+  artifactKey: Guid(1ddf9cd454cdada49b81eecc5cd84dc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/UI/Jungle-GUI-PNG/PNG/bubble/clock.png using Guid(1ddf9cd454cdada49b81eecc5cd84dc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '672074d2bd241808a2d9bf67de0a1ac3') in 0.073739 seconds 
+  Import took 0.076758 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000261 seconds.
+  path: Assets/Art/Props/Crate 1.png
+  artifactKey: Guid(049a88e418bd10d459093652f4475b9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Props/Crate 1.png using Guid(049a88e418bd10d459093652f4475b9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd184e3cdbffd78917c1958d6a02709a') in 0.040463 seconds 
+  Import took 0.043494 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000399 seconds.
+  path: Assets/Art/lpc-baobab/lpc-baobab/canopy/a_za.png
+  artifactKey: Guid(fc6acebbeec671844a37e9fde19b03e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/lpc-baobab/lpc-baobab/canopy/a_za.png using Guid(fc6acebbeec671844a37e9fde19b03e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd67300fd84f5288e964cfb5a1031dd44') in 0.055111 seconds 
+  Import took 0.058477 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000287 seconds.
+  path: Assets/Art/UI/Jungle-GUI-PNG/PNG/shop/bg.png
+  artifactKey: Guid(77b1023090144e04a9e323ccc8d792d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/UI/Jungle-GUI-PNG/PNG/shop/bg.png using Guid(77b1023090144e04a9e323ccc8d792d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f89217f19b5f18a30aed413ae69b7b3') in 0.020066 seconds 
+  Import took 0.023141 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000366 seconds.
+  path: Assets/Art/Environment/opp1_jungle_tiles/opp1_jungle_tiles/environment/background/bg objects/bg_cloud01.png
+  artifactKey: Guid(061fae143f06fe643ba5292a3f8930b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Environment/opp1_jungle_tiles/opp1_jungle_tiles/environment/background/bg objects/bg_cloud01.png using Guid(061fae143f06fe643ba5292a3f8930b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ead64bb3f21fa7bc38fa66482b04601') in 0.030478 seconds 
+  Import took 0.033983 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000265 seconds.
+  path: Assets/Art/lpc-baobab/lpc-baobab/full/adansonia_spp.png
+  artifactKey: Guid(24f624a880f8ca242bc6f4653f9ea6be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/lpc-baobab/lpc-baobab/full/adansonia_spp.png using Guid(24f624a880f8ca242bc6f4653f9ea6be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '56ab5528282118b6e383545f1004146f') in 0.049541 seconds 
+  Import took 0.060166 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000314 seconds.
+  path: Assets/Art/lpc-baobab/lpc-baobab/shadow-leaves/adansonia_spp.png
+  artifactKey: Guid(df57f5082c4a65e4b94bae4096e18f26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/lpc-baobab/lpc-baobab/shadow-leaves/adansonia_spp.png using Guid(df57f5082c4a65e4b94bae4096e18f26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '41ce0cc7be7a19cee73ec7e827bee26f') in 0.039448 seconds 
+  Import took 0.042591 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000276 seconds.
+  path: Assets/Art/lpc-baobab/lpc-baobab/noleaves/a_suarazensis.png
+  artifactKey: Guid(27c344b3259c70e4d890b742e7c4a2c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/lpc-baobab/lpc-baobab/noleaves/a_suarazensis.png using Guid(27c344b3259c70e4d890b742e7c4a2c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '173b0570765bffc6c870658efa0e90d4') in 0.027701 seconds 
+  Import took 0.030642 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000311 seconds.
+  path: Assets/Art/UI/Jungle-GUI-PNG/PNG/pause/bg.png
+  artifactKey: Guid(c02bb3dc3911ee64c82ee96f48087988) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/UI/Jungle-GUI-PNG/PNG/pause/bg.png using Guid(c02bb3dc3911ee64c82ee96f48087988) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '58d4b627074ed357d02aae756b586e3d') in 0.057707 seconds 
+  Import took 0.060839 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 33.384690 seconds.
+  path: Assets/Art/lpc-baobab/lpc-baobab/shadow-leaves/a_digitata.png
+  artifactKey: Guid(14f1addd601d7bf41a4513c2ccd1b4ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/lpc-baobab/lpc-baobab/shadow-leaves/a_digitata.png using Guid(14f1addd601d7bf41a4513c2ccd1b4ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '77009249978dc60dde72e9a2f5e20e5d') in 0.027306 seconds 
+  Import took 0.031306 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000344 seconds.
+  path: Assets/Art/UI/Jungle-GUI-PNG/PNG/bubble/7.png
+  artifactKey: Guid(546b19b772bb77140826970aeb5a7969) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/UI/Jungle-GUI-PNG/PNG/bubble/7.png using Guid(546b19b772bb77140826970aeb5a7969) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '13ea7c700fd41d7cf4abd0fb2ea2bc12') in 0.077277 seconds 
+  Import took 0.086535 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000820 seconds.
+  path: Assets/Art/UI/Jungle-GUI-PNG/PNG/load_bar/2.png
+  artifactKey: Guid(00027071c89823541a55621c1084b859) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/UI/Jungle-GUI-PNG/PNG/load_bar/2.png using Guid(00027071c89823541a55621c1084b859) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ac296dd29f8e7d665652bca128d4675') in 0.069015 seconds 
+  Import took 0.082702 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000997 seconds.
+  path: Assets/Art/lpc-baobab/lpc-baobab/full/a_grandideri.png
+  artifactKey: Guid(c02c53a2f91e2cf42b82b7a18274dfdc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/lpc-baobab/lpc-baobab/full/a_grandideri.png using Guid(c02c53a2f91e2cf42b82b7a18274dfdc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff8fa22ae525219420c5f140941be572') in 0.076548 seconds 
+  Import took 0.084764 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000276 seconds.
+  path: Assets/Art/UI/Jungle-GUI-PNG/PNG/settings/94.png
+  artifactKey: Guid(f560d3602544619468212be9a4558c2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/UI/Jungle-GUI-PNG/PNG/settings/94.png using Guid(f560d3602544619468212be9a4558c2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '647fd004dd30c3fa175954c2f4ddc5ff') in 0.047159 seconds 
+  Import took 0.050411 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000265 seconds.
+  path: Assets/Art/lpc-baobab/lpc-baobab/noleaves/a_gregorii.png
+  artifactKey: Guid(e17149d9a43769a4ba83362840c9b767) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/lpc-baobab/lpc-baobab/noleaves/a_gregorii.png using Guid(e17149d9a43769a4ba83362840c9b767) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '20830ee3388127158c81b163541e518f') in 0.034097 seconds 
+  Import took 0.037381 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000366 seconds.
+  path: Assets/Art/UI/Jungle-GUI-PNG/PNG/bubble/4.png
+  artifactKey: Guid(101fbc9a8ee367f469bd1de35c05e0f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/UI/Jungle-GUI-PNG/PNG/bubble/4.png using Guid(101fbc9a8ee367f469bd1de35c05e0f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4b5a47673b244ec29b40677c5fd410dc') in 0.034517 seconds 
+  Import took 0.038037 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000272 seconds.
+  path: Assets/Art/UI/Jungle-GUI-PNG/PNG/load_bar/1.png
+  artifactKey: Guid(3ff23f68e3946e7488fa90148598f300) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/UI/Jungle-GUI-PNG/PNG/load_bar/1.png using Guid(3ff23f68e3946e7488fa90148598f300) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae4109dd0843091f05dbd09171084f76') in 0.031094 seconds 
+  Import took 0.034189 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000299 seconds.
+  path: Assets/Art/lpc-baobab/lpc-baobab/shadow-noleaves/a_grandideri.png
+  artifactKey: Guid(17f9a218b74a1f84ca7ccb4072ff1ae5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/lpc-baobab/lpc-baobab/shadow-noleaves/a_grandideri.png using Guid(17f9a218b74a1f84ca7ccb4072ff1ae5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf07dbfb75af5214e8925e5858d037da') in 0.044233 seconds 
+  Import took 0.047796 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000260 seconds.
+  path: Assets/Art/UI/Jungle-GUI-PNG/PNG/shop/2.png
+  artifactKey: Guid(ccb1b1e96b81c7642a23f7d87511e72b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/UI/Jungle-GUI-PNG/PNG/shop/2.png using Guid(ccb1b1e96b81c7642a23f7d87511e72b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a02148118dbb63b7548061984ec042c') in 0.053023 seconds 
+  Import took 0.067333 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000291 seconds.
+  path: Assets/Art/UI/Jungle-GUI-PNG/PNG/bubble/9.png
+  artifactKey: Guid(82e6135f815daa24eae0d9ea7a75aca6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/UI/Jungle-GUI-PNG/PNG/bubble/9.png using Guid(82e6135f815daa24eae0d9ea7a75aca6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f6803ab7258e62a142d8796bea9e661') in 0.039348 seconds 
+  Import took 0.042525 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000285 seconds.
+  path: Assets/Art/UI/Jungle-GUI-PNG/PNG/shop/3.png
+  artifactKey: Guid(44c90e2b6438b274cab144029979bd06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/UI/Jungle-GUI-PNG/PNG/shop/3.png using Guid(44c90e2b6438b274cab144029979bd06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f5fc08512b0c33acdcbc3fe5d2857dba') in 0.032002 seconds 
+  Import took 0.034890 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000286 seconds.
+  path: Assets/Art/UI/Jungle-GUI-PNG/PNG/bubble/3.png
+  artifactKey: Guid(f00ec89d3e5e3e748a797efd727049ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/UI/Jungle-GUI-PNG/PNG/bubble/3.png using Guid(f00ec89d3e5e3e748a797efd727049ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec71adfb7a18cab27478fdbe42bdedf2') in 0.117405 seconds 
+  Import took 0.121487 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000387 seconds.
+  path: Assets/Art/lpc-baobab/lpc-baobab/noleaves/a_digitata.png
+  artifactKey: Guid(cb708b921e77d2c41a4bd9d1029670c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/lpc-baobab/lpc-baobab/noleaves/a_digitata.png using Guid(cb708b921e77d2c41a4bd9d1029670c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '74f0eb425a021c70f2b506edc8b5ddaf') in 0.023015 seconds 
+  Import took 0.026300 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000250 seconds.
+  path: Assets/Art/UI/Jungle-GUI-PNG/PNG/clouds/4.png
+  artifactKey: Guid(920e7d0778ef6324fa5081f2f9e5b078) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/UI/Jungle-GUI-PNG/PNG/clouds/4.png using Guid(920e7d0778ef6324fa5081f2f9e5b078) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4776b21c6c2319eb62ee5188f05cc913') in 0.074468 seconds 
+  Import took 0.077452 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000273 seconds.
+  path: Assets/Art/UI/Jungle-GUI-PNG/PNG/bubble/6.png
+  artifactKey: Guid(a6437e21709527842ab8b60b191b96c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/UI/Jungle-GUI-PNG/PNG/bubble/6.png using Guid(a6437e21709527842ab8b60b191b96c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d21afeb374d249b009f733994f36aca') in 0.034270 seconds 
+  Import took 0.037069 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000291 seconds.
+  path: Assets/Art/lpc-baobab/lpc-baobab/canopy/a_grandideri.png
+  artifactKey: Guid(e88b4cb8c6c82814c96f3e16cb6350db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/lpc-baobab/lpc-baobab/canopy/a_grandideri.png using Guid(e88b4cb8c6c82814c96f3e16cb6350db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '45e0fc68b7e30d1547eec561d25c89bf') in 0.035912 seconds 
+  Import took 0.039211 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000358 seconds.
+  path: Assets/Art/lpc-baobab/lpc-baobab/full/a_digitata.png
+  artifactKey: Guid(81b941a2435e4de4a961cd7615914b9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/lpc-baobab/lpc-baobab/full/a_digitata.png using Guid(81b941a2435e4de4a961cd7615914b9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a0c2ee5834689b7c23bf9a2be636d68d') in 0.032527 seconds 
+  Import took 0.036249 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000321 seconds.
+  path: Assets/Art/lpc-baobab/lpc-baobab/canopy/a_digitata.png
+  artifactKey: Guid(074c8e6b1a376b24ab2e88b5da9cc0c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/lpc-baobab/lpc-baobab/canopy/a_digitata.png using Guid(074c8e6b1a376b24ab2e88b5da9cc0c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb3a48101ef6706bb172142efb1f6a5f') in 0.043857 seconds 
+  Import took 0.047201 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000308 seconds.
+  path: Assets/Art/UI/Jungle-GUI-PNG/PNG/upgrade/a.png
+  artifactKey: Guid(c164f9ec0d8122d42b4e9b11c4a96590) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/UI/Jungle-GUI-PNG/PNG/upgrade/a.png using Guid(c164f9ec0d8122d42b4e9b11c4a96590) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e692a0f134a5dac53fc4d6029cd3ebe') in 0.098509 seconds 
+  Import took 0.101707 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000338 seconds.
+  path: Assets/Art/lpc-baobab/lpc-baobab/shadow-leaves/a_gregorii.png
+  artifactKey: Guid(5ea2b031493cd7c4e88f26739e622324) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/lpc-baobab/lpc-baobab/shadow-leaves/a_gregorii.png using Guid(5ea2b031493cd7c4e88f26739e622324) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a50d029136a286520635af160ee0f5b') in 0.047912 seconds 
+  Import took 0.051741 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000344 seconds.
+  path: Assets/Art/UI/Jungle-GUI-PNG/PNG/settings/92.png
+  artifactKey: Guid(3d001ed3abb31384da5746d793270635) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/UI/Jungle-GUI-PNG/PNG/settings/92.png using Guid(3d001ed3abb31384da5746d793270635) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a681b2e6b9bd11b8a2889a20787cc42') in 0.107155 seconds 
+  Import took 0.115592 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000337 seconds.
+  path: Assets/Art/UI/Jungle-GUI-PNG/PNG/clouds/1.png
+  artifactKey: Guid(c56d81db353d86f4e8ef6674cf454f03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/UI/Jungle-GUI-PNG/PNG/clouds/1.png using Guid(c56d81db353d86f4e8ef6674cf454f03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f30cb2642e1e56b0dcd7ee2b5b7eef3c') in 0.118791 seconds 
+  Import took 0.121660 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000292 seconds.
+  path: Assets/Art/UI/Jungle-GUI-PNG/PNG/clouds/3.png
+  artifactKey: Guid(86c2ca0d2f412794f97a7740e70c1195) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/UI/Jungle-GUI-PNG/PNG/clouds/3.png using Guid(86c2ca0d2f412794f97a7740e70c1195) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be7a30b72e6c375a304d75f55e1aaea6') in 0.053055 seconds 
+  Import took 0.056412 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000332 seconds.
+  path: Assets/Art/UI/Jungle-GUI-PNG/PNG/settings/98.png
+  artifactKey: Guid(fbc24a5d805363246beff6e8b547b040) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/UI/Jungle-GUI-PNG/PNG/settings/98.png using Guid(fbc24a5d805363246beff6e8b547b040) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5dae3e3efa357f5956294954fd39bf8d') in 0.069321 seconds 
+  Import took 0.072733 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000313 seconds.
+  path: Assets/Art/UI/Jungle-GUI-PNG/PNG/shop/1.png
+  artifactKey: Guid(f2b1e66a45b4a9d4a8fe95d819af1404) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/UI/Jungle-GUI-PNG/PNG/shop/1.png using Guid(f2b1e66a45b4a9d4a8fe95d819af1404) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f677786aec9250afd3ffc8a06886511') in 0.033572 seconds 
+  Import took 0.036451 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000321 seconds.
+  path: Assets/Art/UI/Jungle-GUI-PNG/PNG/settings/93.png
+  artifactKey: Guid(bcee46c95084a8c428a50af49d0afb13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/UI/Jungle-GUI-PNG/PNG/settings/93.png using Guid(bcee46c95084a8c428a50af49d0afb13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c7f9fb83c0f60437c7d3714ffb43f09') in 0.062407 seconds 
+  Import took 0.065109 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000318 seconds.
+  path: Assets/Art/UI/Jungle-GUI-PNG/PNG/clouds/2.png
+  artifactKey: Guid(6f7b8035bf78f4e4dbdc66e09af5240f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/UI/Jungle-GUI-PNG/PNG/clouds/2.png using Guid(6f7b8035bf78f4e4dbdc66e09af5240f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ed3cd887d4cb1e217db765eec84f0ee') in 0.049529 seconds 
+  Import took 0.052303 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000334 seconds.
+  path: Assets/Art/UI/Jungle-GUI-PNG/PNG/bubble/2.png
+  artifactKey: Guid(2e54e5ac2f209d64aa7ef96b910f5808) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/UI/Jungle-GUI-PNG/PNG/bubble/2.png using Guid(2e54e5ac2f209d64aa7ef96b910f5808) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'afc679d9412adccc4dfc60a74452625d') in 0.017364 seconds 
+  Import took 0.021156 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000285 seconds.
+  path: Assets/Art/lpc-baobab/lpc-baobab/shadow-noleaves/a_gregorii.png
+  artifactKey: Guid(b6265abe7de24da44b873ad3dc9305c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/lpc-baobab/lpc-baobab/shadow-noleaves/a_gregorii.png using Guid(b6265abe7de24da44b873ad3dc9305c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '95cde85fd06e74be6e4ef487b456f7f3') in 0.061908 seconds 
+  Import took 0.065866 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000279 seconds.
+  path: Assets/Art/lpc-baobab/lpc-baobab/full/a_gregorii.png
+  artifactKey: Guid(35b391bb5ebd6d34f947657648ddeaa4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/lpc-baobab/lpc-baobab/full/a_gregorii.png using Guid(35b391bb5ebd6d34f947657648ddeaa4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '839e33a210cc98f3b340fa10104acc70') in 0.031805 seconds 
+  Import took 0.035064 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000287 seconds.
+  path: Assets/Art/lpc-baobab/lpc-baobab/noleaves/a_grandideri.png
+  artifactKey: Guid(c956a48c47b532a4bab14a2fa451e4cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/lpc-baobab/lpc-baobab/noleaves/a_grandideri.png using Guid(c956a48c47b532a4bab14a2fa451e4cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '025a7a06e96da484620e3437b83070f0') in 0.064337 seconds 
+  Import took 0.067645 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000279 seconds.
+  path: Assets/Art/lpc-baobab/lpc-baobab/shadow-noleaves/a_digitata.png
+  artifactKey: Guid(ad8438de28dbe504e8b71a5fafb2b18f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/lpc-baobab/lpc-baobab/shadow-noleaves/a_digitata.png using Guid(ad8438de28dbe504e8b71a5fafb2b18f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '082755e8389f5785a3e0c2074bb3f57b') in 0.034016 seconds 
+  Import took 0.036902 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000318 seconds.
+  path: Assets/Art/lpc-baobab/lpc-baobab/trunk/a_grandideri.png
+  artifactKey: Guid(ef929e615fc5da64086192ea05c0e814) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/lpc-baobab/lpc-baobab/trunk/a_grandideri.png using Guid(ef929e615fc5da64086192ea05c0e814) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b93c52bc8b99b79deef5acf9d499e9e7') in 0.041656 seconds 
+  Import took 0.044508 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000345 seconds.
+  path: Assets/Art/UI/Jungle-GUI-PNG/PNG/settings/95.png
+  artifactKey: Guid(c8190b911f9f8684fa9fc30bd582f811) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/UI/Jungle-GUI-PNG/PNG/settings/95.png using Guid(c8190b911f9f8684fa9fc30bd582f811) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '187f811e0f6d5f82299a3fab07449566') in 0.062681 seconds 
+  Import took 0.065604 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000275 seconds.
+  path: Assets/Art/lpc-baobab/lpc-baobab/trunk/a_digitata.png
+  artifactKey: Guid(8b4515962d0f38046b56d25bc997ebc0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/lpc-baobab/lpc-baobab/trunk/a_digitata.png using Guid(8b4515962d0f38046b56d25bc997ebc0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5dde1720782d6b84e3e9696906d80823') in 0.022762 seconds 
+  Import took 0.025857 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000317 seconds.
+  path: Assets/Art/UI/Jungle-GUI-PNG/PNG/settings/96.png
+  artifactKey: Guid(1efc3af39ca5b184aaa9e9eb8d3f4a94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/UI/Jungle-GUI-PNG/PNG/settings/96.png using Guid(1efc3af39ca5b184aaa9e9eb8d3f4a94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f9c549aa1038ca0d4e84ea0690953422') in 0.087620 seconds 
+  Import took 0.090489 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000320 seconds.
+  path: Assets/Art/UI/Jungle-GUI-PNG/PNG/bubble/5.png
+  artifactKey: Guid(7af857afbc9520d49b5f7b37139b95c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/UI/Jungle-GUI-PNG/PNG/bubble/5.png using Guid(7af857afbc9520d49b5f7b37139b95c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c804eeb4b608394d0ba578cbfd520df') in 0.018819 seconds 
+  Import took 0.021618 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000265 seconds.
+  path: Assets/Art/lpc-baobab/lpc-baobab/canopy/a_gregorii.png
+  artifactKey: Guid(252e419d862f2824f80f7691130e0761) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/lpc-baobab/lpc-baobab/canopy/a_gregorii.png using Guid(252e419d862f2824f80f7691130e0761) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '588dbde5d8b29473e8f48dc9a63c8694') in 0.052804 seconds 
+  Import took 0.055852 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000264 seconds.
+  path: Assets/Art/UI/Jungle-GUI-PNG/PNG/settings/97.png
+  artifactKey: Guid(db488b4e2227fbd4882ddabd1d44b0a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/UI/Jungle-GUI-PNG/PNG/settings/97.png using Guid(db488b4e2227fbd4882ddabd1d44b0a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8479518f50eb09d306a60d55b1aeb334') in 0.031459 seconds 
+  Import took 0.034689 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000256 seconds.
+  path: Assets/Art/lpc-baobab/lpc-baobab/shadow-leaves/a_grandideri.png
+  artifactKey: Guid(a1ab42bd5b211b04581a16d2075ad872) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/lpc-baobab/lpc-baobab/shadow-leaves/a_grandideri.png using Guid(a1ab42bd5b211b04581a16d2075ad872) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6989b0101f47e1b6df733315bb6882e8') in 0.095256 seconds 
+  Import took 0.098625 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000318 seconds.
+  path: Assets/Art/UI/Jungle-GUI-PNG/PNG/bubble/0.png
+  artifactKey: Guid(627155e4f3208df4bb3c15519310a414) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/UI/Jungle-GUI-PNG/PNG/bubble/0.png using Guid(627155e4f3208df4bb3c15519310a414) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '75598dc73b2457c25f16276ff2ce901e') in 0.037995 seconds 
+  Import took 0.041131 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000281 seconds.
+  path: Assets/Art/UI/Jungle-GUI-PNG/PNG/load_bar/3.png
+  artifactKey: Guid(308e205b3d2e6bb478cbcd8ede83ef22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/UI/Jungle-GUI-PNG/PNG/load_bar/3.png using Guid(308e205b3d2e6bb478cbcd8ede83ef22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '01219598b6cc0a2159730937ddd01730') in 0.064622 seconds 
+  Import took 0.067456 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000320 seconds.
+  path: Assets/Art/UI/Jungle-GUI-PNG/PNG/bubble/1.png
+  artifactKey: Guid(679402659cbcd0a4994c727a18c596d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/UI/Jungle-GUI-PNG/PNG/bubble/1.png using Guid(679402659cbcd0a4994c727a18c596d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '38d4d2468c4a91f6c97ecdf0ca4a6b5a') in 0.056263 seconds 
+  Import took 0.059373 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000319 seconds.
+  path: Assets/Art/UI/Jungle-GUI-PNG/PNG/bubble/8.png
+  artifactKey: Guid(720a140df282ae2498ca5102394fdb37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/UI/Jungle-GUI-PNG/PNG/bubble/8.png using Guid(720a140df282ae2498ca5102394fdb37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4cc41d08367d2082b1e35896db6eba10') in 0.142581 seconds 
+  Import took 0.145920 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000408 seconds.
+  path: Assets/Art/lpc-baobab/lpc-baobab/trunk/a_gregorii.png
+  artifactKey: Guid(00063b22d49558f49aa023755d498c76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/lpc-baobab/lpc-baobab/trunk/a_gregorii.png using Guid(00063b22d49558f49aa023755d498c76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd6c1b6b1ecd432053cb4e718f961009a') in 0.037905 seconds 
+  Import took 0.041437 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000319 seconds.
+  path: Assets/Art/UI/Jungle-GUI-PNG/PNG/shop/4.png
+  artifactKey: Guid(57d6ac664f88695499040a3e7906ee33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/UI/Jungle-GUI-PNG/PNG/shop/4.png using Guid(57d6ac664f88695499040a3e7906ee33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e6bb04ce80bae27be1bd9b0bbaf8287') in 0.030824 seconds 
+  Import took 0.033891 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005106 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.45 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.051 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1051ms)
+		BeginReloadAssembly (138ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (40ms)
+		EndReloadAssembly (841ms)
+			LoadAssemblies (102ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (252ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (40ms)
+			SetupLoadedEditorAssemblies (369ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (5ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (70ms)
+				ProcessInitializeOnLoadAttributes (280ms)
+				ProcessInitializeOnLoadMethodAttributes (4ms)
+				AfterProcessingInitializeOnLoad (8ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (9ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.52 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2236 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 102.5 MB.
+System memory in use after: 102.7 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2804.
+Total: 2.874100 ms (FindLiveObjects: 0.211800 ms CreateObjectMapping: 0.081900 ms MarkObjects: 2.565800 ms  DeleteObjects: 0.014000 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 210.976824 seconds.
+  path: Assets/Scripts/LevelController.cs
+  artifactKey: Guid(75cc043b756342d41b26776a7f09aa09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/LevelController.cs using Guid(75cc043b756342d41b26776a7f09aa09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8558ec18658f02ec5d0fdf041554c6b4') in 0.077460 seconds 
+  Import took 0.086134 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 39.301542 seconds.
+  path: Assets/Scenes/Level 1.unity
+  artifactKey: Guid(5352bd097934f3941ad87366a39350c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Level 1.unity using Guid(5352bd097934f3941ad87366a39350c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ffd39bb03131f406ff97ba2d162a23d9') in 0.066720 seconds 
+  Import took 0.071083 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006370 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.49 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.020 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1020ms)
+		BeginReloadAssembly (119ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (38ms)
+		EndReloadAssembly (840ms)
+			LoadAssemblies (83ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (272ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (39ms)
+			SetupLoadedEditorAssemblies (353ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (6ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (77ms)
+				ProcessInitializeOnLoadAttributes (257ms)
+				ProcessInitializeOnLoadMethodAttributes (4ms)
+				AfterProcessingInitializeOnLoad (9ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (10ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.53 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2236 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 102.6 MB.
+System memory in use after: 102.8 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2807.
+Total: 2.985300 ms (FindLiveObjects: 0.342400 ms CreateObjectMapping: 0.132200 ms MarkObjects: 2.495900 ms  DeleteObjects: 0.014000 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004761 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.55 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.226 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1226ms)
+		BeginReloadAssembly (144ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (6ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (41ms)
+		EndReloadAssembly (1003ms)
+			LoadAssemblies (110ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (347ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (44ms)
+			SetupLoadedEditorAssemblies (405ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (6ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (83ms)
+				ProcessInitializeOnLoadAttributes (299ms)
+				ProcessInitializeOnLoadMethodAttributes (6ms)
+				AfterProcessingInitializeOnLoad (9ms)
+				EditorAssembliesLoaded (1ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (11ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.49 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2236 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 102.6 MB.
+System memory in use after: 102.8 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2810.
+Total: 2.773800 ms (FindLiveObjects: 0.209700 ms CreateObjectMapping: 0.086900 ms MarkObjects: 2.462900 ms  DeleteObjects: 0.013500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003132 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.54 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.219 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1220ms)
+		BeginReloadAssembly (204ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (6ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (60ms)
+		EndReloadAssembly (951ms)
+			LoadAssemblies (133ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (294ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (48ms)
+			SetupLoadedEditorAssemblies (392ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (6ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (98ms)
+				ProcessInitializeOnLoadAttributes (274ms)
+				ProcessInitializeOnLoadMethodAttributes (5ms)
+				AfterProcessingInitializeOnLoad (8ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (12ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.57 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2236 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 102.6 MB.
+System memory in use after: 102.8 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2813.
+Total: 6.597700 ms (FindLiveObjects: 0.401400 ms CreateObjectMapping: 0.688800 ms MarkObjects: 5.473000 ms  DeleteObjects: 0.032800 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 3.41 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 14 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 57.8 MB.
+System memory in use after: 58.0 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 2813.
+Total: 2.999700 ms (FindLiveObjects: 0.225200 ms CreateObjectMapping: 0.111600 ms MarkObjects: 2.649300 ms  DeleteObjects: 0.013000 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
